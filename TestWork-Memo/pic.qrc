@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file alias="0.png">Illustration/objects/0.png</file>
+        <file alias="1.png">Illustration/objects/1.png</file>
+        <file alias="2.png">Illustration/objects/2.png</file>
+        <file alias="3.png">Illustration/objects/3.png</file>
+        <file alias="4.png">Illustration/objects/4.png</file>
+        <file alias="5.png">Illustration/objects/5.png</file>
+        <file alias="6.png">Illustration/objects/6.png</file>
+        <file alias="7.png">Illustration/objects/7.png</file>
+        <file alias="8.png">Illustration/objects/8.png</file>
+        <file alias="9.png">Illustration/objects/9.png</file>
+        <file alias="10.png">Illustration/objects/10.png</file>
+        <file alias="11.png">Illustration/objects/11.png</file>
+        <file alias="12.png">Illustration/objects/12.png</file>
+        <file alias="13.png">Illustration/objects/13.png</file>
+        <file alias="14.png">Illustration/objects/14.png</file>
+        <file alias="15.png">Illustration/objects/15.png</file>
+        <file alias="16.png">Illustration/objects/16.png</file>
+        <file alias="17.png">Illustration/objects/17.png</file>
+        <file alias="18.png">Illustration/objects/18.png</file>
+        <file alias="19.png">Illustration/objects/19.png</file>
+        <file alias="20.png">Illustration/objects/20.png</file>
+        <file alias="21.png">Illustration/objects/21.png</file>
+        <file alias="22.png">Illustration/objects/22.png</file>
+        <file alias="23.png">Illustration/objects/23.png</file>
+    </qresource>
+</RCC>

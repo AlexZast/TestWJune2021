@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="btn_titel.png">Illustration/btn_titel.png</file>
+        <file alias="btn_titel_prs.png">Illustration/btn_titel_prs.png</file>
+        <file alias="border.png">Illustration/game_area_bkg.png</file>
+        <file alias="front.png">Illustration/card/front.png</file>
+        <file alias="back.png">Illustration/card/back.png</file>
+        <file alias="menu_bkg2.png">Illustration/menu_bkg2.png</file>
+        <file alias="menu_bkgmenu.png">Illustration/menu_bkgmenu.png</file>
+        <file alias="close.png">Illustration/close.png</file>
+    </qresource>
+</RCC>
